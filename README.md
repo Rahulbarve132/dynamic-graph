@@ -26,7 +26,7 @@ Ensure you have the following installed:
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/akshansh14/Dynamic-Graph.git
+   
    cd Dynamic-Graph
    ```
 2. Install dependencies:
@@ -65,11 +65,7 @@ Contributions are welcome! Follow these steps:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 🌎 Connect
-
-💡 **Author:** [Akshansh14](https://github.com/akshansh14)  
-📧 **Contact:** [akshansh14@example.com](mailto:akshansh14@example.com)  
-📌 **Project Repository:** [Dynamic-Graph](https://github.com/akshansh14/Dynamic-Graph)  
+  
 
 Happy coding! 🎉
 
